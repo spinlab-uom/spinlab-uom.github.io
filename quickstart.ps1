@@ -1,5 +1,5 @@
 
-### for issues with caching try
+### for issues with caching try.
 
 hugo serve --disableFastRender
 
