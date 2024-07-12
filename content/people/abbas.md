@@ -7,4 +7,6 @@ headshot: "/images/Headshots/HS_eevee.png"
 
 <!-- ![img](/images/Headshots/HS_eevee.png) -->
 
-Labore duis aute ex id voluptate irure duis esse. Consequat voluptate commodo reprehenderit mollit officia mollit nulla proident esse proident voluptate ad magna. Nisi magna do aliquip cupidatat consectetur fugiat in magna. Exercitation mollit aliqua labore est nisi dolore. Pariatur reprehenderit in aute exercitation Lorem esse incididunt exercitation fugiat sunt proident quis. Eu ipsum quis elit voluptate labore voluptate voluptate consequat ea exercitation reprehenderit sit. Veniam amet Lorem aute quis.
+I am a PhD student in computational neuroscience with a background in engineering and theoretical physics. My research includes providing mathematical framework to optimise the parameters of non-invasive brain stimulations with the purpose of improving Working Memory.
+
+More specifically, I am interested in bridging between empirical data and computational models of large-scale brain networks by drawing implications from latent manifold of neuroimaging data. With insights from dynamical systems and complex system physics, I seek to put constraints on computational models of brain networks using the embedding and intrinsic dimension of Working Memory manifold.

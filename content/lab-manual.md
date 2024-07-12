@@ -30,9 +30,9 @@ PIs
 
 ---
 
-Postdoc
+Postdoctoral research associates
 
-Postdocs are research positions typically funded from research grants. As a postdoc in the lab you are expected to:
+PDRAs are research positions typically funded from research grants. As a postdoc in the lab you are expected to:
 
 - develop your own independent line of research
 
@@ -44,7 +44,7 @@ Postdocs are research positions typically funded from research grants. As a post
 
 ---
 
-PhD student
+PhD students
 
 Develop a line of research for your thesis.
 

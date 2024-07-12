@@ -8,12 +8,26 @@ menu: main
 weight: 4
 ---
 
+
+---
+### _2024_
+
+[Rhythmic modulation of subthalamo-pallidal interactions depends on synaptic rewiring through inhibitory plasticity](https://doi.org/10.1101/2024.07.01.601477) Mojtaba Madadi Asl, Caroline A Lea-Carnall BioRxiv, DOI: 10.1101/2024.07.01.601477
+
+[Emergence of multiple spontaneous coherent subnetworks from a single configuration of human connectome-coupled oscillators model](https://doi.org/10.1101/2024.01.09.574845) Wael El-Deredy Felipe A. Torres, Mónica Otero, Caroline Lea-Carnall, Joana Cabral, Alejandro Weinstein BioRxiv, DOI: 10.1101/2024.01.09.574845
+
+[Changes in Motor and Sensory Cortical Neurotransmitters Following Traumatic Brachial Plexus Injuries in Adults Measured with Magnetic Resonance Spectroscopy](https://doi.org/10.21203/rs.3.rs-3910773/v1) Ryckie G Wade, Gráinne Bourke, Caroline Lea-Carnall et al Research Square, DOI: 10.21203/rs.3.rs-3910773/v1
+
+[Depression, Brain Structure and Socioeconomic Status: A UK Biobank Study](https://doi.org/10.1101/2024.03.27.24304960) Sasha Johns, Nick Shryane, Caroline Lea-Carnall, Asri Maharani MedRxiv, DOI: 10.1101/2024.03.27.24304960
+
+---
+
 ### _2023_
 
 [Beyond global synchrony: equivalence between Kuramoto oscillators and Wilson-Cowan model for large-scale brain networks](https://doi.org/10.1117/12.2670120)
-Abd-Elrazik AH, Torres FA, Otero M, Lea-Carnall CA, El-Deredy W. Proceedings Volume 12567, 18th International Symposium on Medical Information Processing and Analysis; 125671B (2023).
+Abd-Elrazik AH, Torres FA, Otero M, Lea-Carnall CA, El-Deredy W. Proceedings Volume 12567, 18th International Symposium on Medical Information Processing and Analysis; 125671B.
 
-[Aberrant oscillatory activity in neurofibromatosis type 1: an EEG study of resting state and working memory](https://doi.org/10.1186/s11689-023-09492-y) Booth SJ, Garg S, Brown LJE, Green J, Pobric G, Taylor JR. A. J Neurodev Disord. 2023 Aug 22;15(1):27. doi: 10.1186/s11689-023-09492-y. PMID: 37608248; PMCID: PMC10463416.
+[Aberrant oscillatory activity in neurofibromatosis type 1: an EEG study of resting state and working memory](https://doi.org/10.1186/s11689-023-09492-y) Booth SJ, Garg S, Brown LJE, Green J, Pobric G, Taylor JR. A. J Neurodev Disord. 2023 Aug 22;15(1):27. DOI: 10.1186/s11689-023-09492-y. PMID: 37608248; PMCID: PMC10463416.
 
 [A Targeted, Low-Throughput Compound Screen in a Drosophila Model of Neurofibromatosis Type 1 Identifies Simvastatin and BMS-204352 as Potential Therapies for Autism Spectrum Disorder (ASD)](https://doi.org/10.1523/ENEURO.0461-22.2023) Dyson A, Ryan M, Garg S, Evans DG, Baines RA. eNeuro, DOI: 10.1523/ENEURO.0461-22.2023
 
