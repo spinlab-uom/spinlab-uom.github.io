@@ -1,7 +1,7 @@
 ---
 description: ""
 featured_image: "/images/Background_Images/brain_plate.jpg"
-title: "Marta Czime Litwińczuk"
+title: "Marta Litwińczuk"
 headshot: "/images/Headshots/HS_MCL.png"
 ---
 
