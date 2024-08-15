@@ -2,7 +2,7 @@
 description: ""
 featured_image: "/images/Background_Images/brain_plate.jpg"
 title: "Jessica Ward"
-headshot: "/images/Headshots/HS_eevee.png"
+headshot: "/images/Headshots/HS_Jess.jpg"
 ---
 
 <!-- ![img](/images/Headshots/HS_eevee.png) -->
