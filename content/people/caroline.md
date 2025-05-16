@@ -1,5 +1,7 @@
 ---
-description: ""
+
+date: 2025-05-01
+description: "Principal Investigator"
 featured_image: "/images/Background_Images/brain_plate.jpg"
 title: "Caroline Lea-Carnall"
 headshot: "/images/Headshots/HS_CLC2.jpg"

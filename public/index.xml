@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to the SPiN-LAB on My New Hugo Site</title>
+    <title>Welcome to the SPiN-LAB on SPiN-LAB Studying Plasticity in Neurodevelopment</title>
     <link>https://spinlab-uom.github.io/</link>
-    <description>Recent content in Welcome to the SPiN-LAB on My New Hugo Site</description>
+    <description>Recent content in Welcome to the SPiN-LAB on SPiN-LAB Studying Plasticity in Neurodevelopment</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://spinlab-uom.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://spinlab-uom.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://spinlab-uom.github.io/about/</link>
@@ -23,9 +23,9 @@ We are a research group based at the Univerity of Manchester interested in mecha
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://spinlab-uom.github.io/publications/</guid>
-      <description>2024 Rhythmic modulation of subthalamo-pallidal interactions depends on synaptic rewiring through inhibitory plasticity Mojtaba Madadi Asl, Caroline A Lea-Carnall BioRxiv, DOI: 10.1101/2024.07.01.601477
-Emergence of multiple spontaneous coherent subnetworks from a single configuration of human connectome-coupled oscillators model Wael El-Deredy Felipe A. Torres, Mónica Otero, Caroline Lea-Carnall, Joana Cabral, Alejandro Weinstein BioRxiv, DOI: 10.1101/2024.01.09.574845
-Changes in Motor and Sensory Cortical Neurotransmitters Following Traumatic Brachial Plexus Injuries in Adults Measured with Magnetic Resonance Spectroscopy Ryckie G Wade, Gráinne Bourke, Caroline Lea-Carnall et al Research Square, DOI: 10.</description>
+      <description>2025 Emergence of multiple spontaneous coherent subnetworks from a single configuration of human connectome coupled oscillators model Torres FA, Otero M, Lea-Carnall CA, et al. Sci Rep, DOI:10.1038/s41598-024-80510-2
+Depression, brain structure and socioeconomic status: A UK Biobank study. Johns S, Lea-Carnall C, Shryane N, Maharani A. J Affect Disord, DOI:1016/j.jad.2024.09.102
+Evidence for biexponential glutamate T2 relaxation in human visual cortex at 3T: A functional MRS study Emeliyanova P, Parkes LM, Williams SR, Lea-Carnall CA.</description>
     </item>
     
     <item>
@@ -62,6 +62,16 @@ Your NameEmail AddressAn email address is required.Message</description>
     </item>
     
     <item>
+      <title>SPiN-LAB attend 2025 BNA conference in Liverpool</title>
+      <link>https://spinlab-uom.github.io/news/news-11/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://spinlab-uom.github.io/news/news-11/</guid>
+      <description>&lt;p&gt;The SPiN-LAB had a great turnout for BNA 2025 in Liverpool with plenty of posters on display from the group.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://spinlab-uom.github.io/images/News_Images/Varun_BNA_2025.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>SPiN-LAB attend 2024 Global NF Conference in Brussels</title>
       <link>https://spinlab-uom.github.io/news/news-7/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
@@ -87,7 +97,8 @@ Your NameEmail AddressAn email address is required.Message</description>
       <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>https://spinlab-uom.github.io/news/news-10/</guid>
-      <description>Sadali attended the 2024 ICIS conference held in Glasgow, where she was was part of a symposium that discussed Early Pathways to Neurodiversity in infants with an elevated likelihood of Autism Spectrum Condition and Attention Deficit Hyperactivity Disorder (ADHD). The symposium was composed of our collaborator Dr Jannath Begum Ali from Birkbeck, University of London, Natasha Lindsay and Dr Amy Goodwin from Kings College London as well as myself. My talk focused on early motor markers of ADHD traits in Neurofibromatosis 1.</description>
+      <description>&lt;p&gt;Sadali attended the 2024 ICIS conference held in Glasgow, where she was was part of a symposium that discussed Early Pathways to Neurodiversity in infants with an elevated likelihood of Autism Spectrum Condition and Attention Deficit Hyperactivity Disorder (ADHD). The symposium was composed of our collaborator Dr Jannath Begum Ali from Birkbeck, University of London, Natasha Lindsay and Dr Amy Goodwin from Kings College London. Sadali&amp;rsquo;s talk focused on early motor markers of ADHD traits in Neurofibromatosis 1. In this presentation, she discussed preliminary findings from a comparative analysis conducted between three 10- and 14- month old cohorts i.e., infants with NF1, typically developing infants and infants with an elevated likelihood of primary ADHD. This analysis incorporated motor data collected using accelerometery and standardised motor assessment scale metrics.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://spinlab-uom.github.io/images/News_Images/ICIS_2024.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>

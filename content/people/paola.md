@@ -1,5 +1,5 @@
 ---
-description: ""
+description: "Project Student"
 featured_image: "/images/Background_Images/brain_plate.jpg"
 title: "Paola Martinez"
 headshot: "/images/Headshots/HS_PM.jpg"

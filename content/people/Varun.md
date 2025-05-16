@@ -1,5 +1,5 @@
 ---
-description: ""
+description: "Postdoctoral Researcher"
 featured_image: "/images/Background_Images/brain_plate.jpg"
 title: "Varun Chandran"
 headshot: "/images/Headshots/HS_VC.jpg"

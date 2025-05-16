@@ -1,5 +1,5 @@
 ---
-description: ""
+description: "PhD Student"
 featured_image: "/images/Background_Images/brain_plate.jpg"
 title: "Matthew Mccowen"
 headshot: "/images/Headshots/HS_MM.jpg"

@@ -8,7 +8,7 @@ baseURL = 'https://spinlab-uom.github.io'
 #canonifyurls = true # maybe don't need this true anymore now that we have no path after the domain
 
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'SPiN-LAB Studying Plasticity in Neurodevelopment'
 theme = 'ananke'
 
 DefaultContentLanguage = "en"

@@ -1,5 +1,5 @@
 ---
-description: ""
+description: "Administrator"
 featured_image: "/images/Background_Images/brain_plate.jpg"
 title: "Jessica Ward"
 headshot: "/images/Headshots/HS_Jess.jpg"
