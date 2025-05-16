@@ -1,3 +1,2 @@
 User-agent: *
 Allow: /
-Sitemap: https://spinlab-uom.github.io/sitemap.xml
