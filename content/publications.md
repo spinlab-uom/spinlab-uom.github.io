@@ -18,6 +18,22 @@ weight: 4
 
 ### _2025_
 
+[Non-invasive brain stimulation reorganises effective connectivity during a working memory task in individuals with Neurofibromatosis Type 1](https://www.sciencedirect.com/science/article/pii/S2666956025000261)
+Litwińczuk MC, *et al.*
+NeuroImage: Reports. doi: 10.1016/j.ynirp.2025.100258
+
+[Functional connectivity reveals increased network segregation and sensorimotor processing during working memory in adolescents with Neurofibromatosis Type 1](https://www.biorxiv.org/content/10.1101/2025.04.10.648210v2)
+Litwińczuk MC, *et al.*
+bioRxiv. doi: 10.1101/2025.04.10.648210
+
+[Fronto-parietal effective connectivity during working memory in Neurofibromatosis Type 1 adolescents and neurotypical controls](https://www.biorxiv.org/content/10.1101/2025.04.10.648183v2)
+Litwińczuk MC, *et al.*
+bioRxiv. doi: 10.1101/2025.04.10.648183
+
+[Rhythmic modulation of subthalamo-pallidal interactions depends on synaptic rewiring through inhibitory plasticity](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023128)
+Madadi Asl M, Lea-Carnall CA.
+Phys Rev Research. doi: 10.1103/PhysRevResearch.7.023128
+
 [Quantitative Grey/White Matter Myelin differences in Neurofibromatosis Type-1 using T1W/T2W ratio](https://doi.org/10.1101/2025.03.28.25324840)
 Chandran VA, *et al.* 
 medRxiv. doi: 10.1101/2025.03.28.25324840. 
