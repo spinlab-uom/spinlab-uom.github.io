@@ -2,10 +2,10 @@
 description: "PhD Student"
 featured_image: "/images/Background_Images/brain_plate.jpg"
 title: "Amir Abbas Khanbeigi"
-headshot: "/images/Headshots/HS_eevee.png"
+headshot: "/images/Headshots/HS_Amir.jpg"
 ---
 
-<!-- ![img](/images/Headshots/HS_eevee.png) -->
+<!-- ![img](/images/Headshots/HS_Amir.jpg) -->
 
 I am a PhD student in computational neuroscience with a background in engineering and theoretical physics. My research includes providing mathematical framework to optimise the parameters of non-invasive brain stimulations with the purpose of improving Working Memory.
 
