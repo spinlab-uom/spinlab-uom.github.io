@@ -10,29 +10,9 @@ weight: 4
 
 
 
-
-
-
-
 ---
 
 ### _2025_
-
-[Non-invasive brain stimulation reorganises effective connectivity during a working memory task in individuals with Neurofibromatosis Type 1](https://www.sciencedirect.com/science/article/pii/S2666956025000261)
-Litwińczuk MC, *et al.*
-NeuroImage: Reports. doi: 10.1016/j.ynirp.2025.100258
-
-[Functional connectivity reveals increased network segregation and sensorimotor processing during working memory in adolescents with Neurofibromatosis Type 1](https://www.biorxiv.org/content/10.1101/2025.04.10.648210v2)
-Litwińczuk MC, *et al.*
-bioRxiv. doi: 10.1101/2025.04.10.648210
-
-[Fronto-parietal effective connectivity during working memory in Neurofibromatosis Type 1 adolescents and neurotypical controls](https://www.biorxiv.org/content/10.1101/2025.04.10.648183v2)
-Litwińczuk MC, *et al.*
-bioRxiv. doi: 10.1101/2025.04.10.648183
-
-[Rhythmic modulation of subthalamo-pallidal interactions depends on synaptic rewiring through inhibitory plasticity](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023128)
-Madadi Asl M, Lea-Carnall CA.
-Phys Rev Research. doi: 10.1103/PhysRevResearch.7.023128
 
 [Quantitative Grey/White Matter Myelin differences in Neurofibromatosis Type-1 using T1W/T2W ratio](https://doi.org/10.1101/2025.03.28.25324840)
 Chandran VA, *et al.* 
@@ -42,6 +22,26 @@ medRxiv. doi: 10.1101/2025.03.28.25324840.
 Wild A, *et al.*
 medRxiv. doi:10.1101/2025.01.27.25321195 
 
+[Functional connectivity reveals increased network segregation and sensorimotor processing during working memory in adolescents with Neurofibromatosis Type 1](https://www.biorxiv.org/content/10.1101/2025.04.10.648210v2)
+Litwińczuk MC, *et al.*
+bioRxiv. doi: 10.1101/2025.04.10.648210
+
+[Fronto-parietal effective connectivity during working memory in Neurofibromatosis Type 1 adolescents and neurotypical controls](https://www.biorxiv.org/content/10.1101/2025.04.10.648183v2)
+Litwińczuk MC, *et al.*
+bioRxiv. doi: 10.1101/2025.04.10.648183
+
+[Selective brain network stimulation by frequency entrainment](https://www.biorxiv.org/content/10.1101/2025.04.30.651283v2.full)
+Otero M, *et al.*
+bioRxiv. doi: 10.1101/2025.04.30.651283
+
+[Non-invasive brain stimulation reorganises effective connectivity during a working memory task in individuals with Neurofibromatosis Type 1](https://www.sciencedirect.com/science/article/pii/S2666956025000261)
+Litwińczuk MC, *et al.*
+NeuroImage: Reports. doi: 10.1016/j.ynirp.2025.100258
+
+[Rhythmic modulation of subthalamo-pallidal interactions depends on synaptic rewiring through inhibitory plasticity](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023128)
+Madadi Asl M, Lea-Carnall CA.
+Phys Rev Research. doi: 10.1103/PhysRevResearch.7.023128
+
 [Parent-infant interaction in the context of emerging neurodiversities: Neurofibromatosis 1 and elevated likelihood of ADHD](https://www.sciencedirect.com/science/article/pii/S0163638325000104?via%3Dihub)
 Kaplan G, *et al.*
 Infant Behavior and Development. doi: 10.1016/j.infbeh.2025.102036.
@@ -49,6 +49,7 @@ Infant Behavior and Development. doi: 10.1016/j.infbeh.2025.102036.
 [Depression, brain structure and socioeconomic status: A UK Biobank study.](https://doi.org/10.1016/j.jad.2024.09.102)
 Johns S, L, *et al.*
 J Affect Disord. doi:1016/j.jad.2024.09.102.
+
 
 
 ---
