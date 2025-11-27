@@ -2,109 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on SPiN-LAB Studying Plasticity in Neurodevelopment</title>
-    <link>https://spinlab-uom.github.io/news/</link>
+    <link>http://localhost:1313/news/</link>
     <description>Recent content in News on SPiN-LAB Studying Plasticity in Neurodevelopment</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Mar 2019 12:00:00 -0500</lastBuildDate><atom:link href="https://spinlab-uom.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SPiN-LAB attend 2025 BNA conference in Liverpool</title>
-      <link>https://spinlab-uom.github.io/news/news-11/</link>
+      <link>http://localhost:1313/news/news-11/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/news/news-11/</guid>
-      <description>&lt;p&gt;The SPiN-LAB had a great turnout for BNA 2025 in Liverpool with plenty of posters on display from the group.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://spinlab-uom.github.io/images/News_Images/Varun_BNA_2025.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/news/news-11/</guid>
+      <description>&lt;p&gt;The SPiN-LAB had a great turnout for BNA 2025 in Liverpool with plenty of posters on display from the group.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/News_Images/Varun_BNA_2025.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>SPiN-LAB attend 2024 Global NF Conference in Brussels</title>
-      <link>https://spinlab-uom.github.io/news/news-7/</link>
+      <link>http://localhost:1313/news/news-7/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/news/news-7/</guid>
-      <description>&lt;p&gt;Two lab members presented their research at the 2024 Global NF Conference in Brussels, hosted by the Children’s Tumor Foundation.&lt;/p&gt;
-&lt;p&gt;Gamze&amp;rsquo;s study explored whether parent-infant interactions (PII) differ in infants with an increased likelihood of ADHD and infants with NF1 compared to typically developing infants at 10 and 14 months. The findings provide preliminary insights into the quality of PII in these groups, suggesting distinct interaction profiles. For NF1 infants, this is characterised mainly by mutuality, a tendency of lower parental sensitivity, and higher directiveness. For infants with elevated ADHD likelihood, the profile includes higher liveliness and lower negative affect.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://spinlab-uom.github.io/images/News_Images/gamze_nf1_2024.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/news/news-7/</guid>
+      <description>&lt;p&gt;Two lab members presented their research at the 2024 Global NF Conference in Brussels, hosted by the Children’s Tumor Foundation.&lt;/p&gt;&#xA;&lt;p&gt;Gamze&amp;rsquo;s study explored whether parent-infant interactions (PII) differ in infants with an increased likelihood of ADHD and infants with NF1 compared to typically developing infants at 10 and 14 months. The findings provide preliminary insights into the quality of PII in these groups, suggesting distinct interaction profiles. For NF1 infants, this is characterised mainly by mutuality, a tendency of lower parental sensitivity, and higher directiveness. For infants with elevated ADHD likelihood, the profile includes higher liveliness and lower negative affect.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/News_Images/gamze_nf1_2024.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>SPiN-LAB member awarded Summer studentship sponsored by the Neurofibromitosis Therapeutic Acceleration Programme (NTAP) at Johns Hopkins University</title>
-      <link>https://spinlab-uom.github.io/news/news-8/</link>
+      <link>http://localhost:1313/news/news-8/</link>
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/news/news-8/</guid>
+      <guid>http://localhost:1313/news/news-8/</guid>
       <description>&lt;p&gt;Paola wins Summer studentship award sponsored by the Neurofibromitosis Therapeutic Acceleration Programme (NTAP) at Johns Hopkins University.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>SPiN-LAB attend 2024 ICIS conference in Glasgow</title>
-      <link>https://spinlab-uom.github.io/news/news-10/</link>
+      <link>http://localhost:1313/news/news-10/</link>
       <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/news/news-10/</guid>
-      <description>&lt;p&gt;Sadali attended the 2024 ICIS conference held in Glasgow, where she was was part of a symposium that discussed Early Pathways to Neurodiversity in infants with an elevated likelihood of Autism Spectrum Condition and Attention Deficit Hyperactivity Disorder (ADHD). The symposium was composed of our collaborator Dr Jannath Begum Ali from Birkbeck, University of London, Natasha Lindsay and Dr Amy Goodwin from Kings College London. Sadali&amp;rsquo;s talk focused on early motor markers of ADHD traits in Neurofibromatosis 1. In this presentation, she discussed preliminary findings from a comparative analysis conducted between three 10- and 14- month old cohorts i.e., infants with NF1, typically developing infants and infants with an elevated likelihood of primary ADHD. This analysis incorporated motor data collected using accelerometery and standardised motor assessment scale metrics.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://spinlab-uom.github.io/images/News_Images/ICIS_2024.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/news/news-10/</guid>
+      <description>&lt;p&gt;Sadali attended the 2024 ICIS conference held in Glasgow, where she was was part of a symposium that discussed Early Pathways to Neurodiversity in infants with an elevated likelihood of Autism Spectrum Condition and Attention Deficit Hyperactivity Disorder (ADHD). The symposium was composed of our collaborator Dr Jannath Begum Ali from Birkbeck, University of London, Natasha Lindsay and Dr Amy Goodwin from Kings College London. Sadali&amp;rsquo;s talk focused on early motor markers of ADHD traits in Neurofibromatosis 1. In this presentation, she discussed preliminary findings from a comparative analysis conducted between three 10- and 14- month old cohorts i.e., infants with NF1, typically developing infants and infants with an elevated likelihood of primary ADHD. This analysis incorporated motor data collected using accelerometery and standardised motor assessment scale metrics.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/News_Images/ICIS_2024.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New paper: Rhythmic modulation of subthalamo-pallidal interactions depends on synaptic rewiring through inhibitory plasticity</title>
-      <link>https://spinlab-uom.github.io/news/news-9/</link>
+      <link>http://localhost:1313/news/news-9/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/news/news-9/</guid>
-      <description>&lt;p&gt;Check out our latest preprint where we model inhibitory synaptic plasticity in the STN-GPe loop!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://spinlab-uom.github.io/images/Paper_Images/Paper_CLC_2024_1.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/news/news-9/</guid>
+      <description>&lt;p&gt;Check out our latest preprint where we model inhibitory synaptic plasticity in the STN-GPe loop!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Paper_Images/Paper_CLC_2024_1.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New paper: Temporal trends in eating disorder and self-harm incidence rates among adolescents and young adults in the UK</title>
-      <link>https://spinlab-uom.github.io/news/news-1/</link>
+      <link>http://localhost:1313/news/news-1/</link>
       <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/news/news-1/</guid>
+      <guid>http://localhost:1313/news/news-1/</guid>
       <description>&lt;p&gt;In our latest paper we examine the incidence rates of these psychopathologies among young people in the UK in the 2 years following onset of the COVID-19 pandemic.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Fully funded EPSRC-DTP</title>
-      <link>https://spinlab-uom.github.io/news/news-2/</link>
+      <link>http://localhost:1313/news/news-2/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/news/news-2/</guid>
-      <description>We are recruting!
-Exploring how eye movements and pupil response during learning relate to neurotransmission: A combined neuroimaging and eye tracking study
-About the Project Glutamate and GABA are two important neurotransmitters in the brain. Glutamate is the main excitatory neurotransmitter, while GABA is the main inhibitory neurotransmitter. Glutamate and GABA work together to maintain a balance between excitation and inhibition in the brain, which is essential for normal cognitive function.</description>
+      <guid>http://localhost:1313/news/news-2/</guid>
+      <description>&lt;p&gt;We are recruting!&lt;/p&gt;&#xA;&lt;p&gt;Exploring how eye movements and pupil response during learning relate to neurotransmission: A combined neuroimaging and eye tracking study&lt;/p&gt;&#xA;&lt;p&gt;About the Project&#xA;Glutamate and GABA are two important neurotransmitters in the brain. Glutamate is the main excitatory neurotransmitter, while GABA is the main inhibitory neurotransmitter. Glutamate and GABA work together to maintain a balance between excitation and inhibition in the brain, which is essential for normal cognitive function. Imbalance in glutamate and GABA levels has been linked to various neurological and psychiatric disorders and may underlie cognitive impairments (e.g., learning and memory disturbance) associated with these conditions. At the same time, oculomotor behaviour (eye movements) has been linked to memory encoding and retrieval processes, while an important physiological indicator of cognitive and memory processing is the pupillary response, which reflects the activity of the autonomic nervous system. Previous studies (see e.g., Kafkas, 2021) have shown that variations in pupillary responses in memory tasks are linked to differential neurotransmission in the brain and especially within prefrontal and hippocampal pathways, which are involved in memory formation and consolidation. However, to date, the degree to which glutamate and GABA neurotransmission modulates oculomotor and pupillary responses in learning and memory tasks has not been investigated. This kind of association may provide a novel biomarker for cognitive/memory function and will allow understanding of the mechanisms that result in cognitive deficits in neurodevelopmental disorders.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New Paper: A Targeted, Low-Throughput Compound Screen in a Drosophila Model of Neurofibromatosis Type 1 Identifies Simvastatin and BMS-204352 as Potential Therapies for Autism Spectrum Disorder (ASD)</title>
-      <link>https://spinlab-uom.github.io/news/news-3/</link>
+      <link>http://localhost:1313/news/news-3/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/news/news-3/</guid>
-      <description>Check out our latest paper:
-A Targeted, Low-Throughput Compound Screen in a Drosophila Model of Neurofibromatosis Type 1 Identifies Simvastatin and BMS-204352 as Potential Therapies for Autism Spectrum Disorder (ASD) Dyson A, Ryan M, Garg S, Evans DG, Baines RA. eNeuro, DOI: 10.1523/ENEURO.0461-22.2023</description>
+      <guid>http://localhost:1313/news/news-3/</guid>
+      <description>&lt;p&gt;Check out our latest paper:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1523/ENEURO.0461-22.2023&#34;&gt;A Targeted, Low-Throughput Compound Screen in a Drosophila Model of Neurofibromatosis Type 1 Identifies Simvastatin and BMS-204352 as Potential Therapies for Autism Spectrum Disorder (ASD)&lt;/a&gt; Dyson A, Ryan M, Garg S, Evans DG, Baines RA. eNeuro, DOI: 10.1523/ENEURO.0461-22.2023&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New Paper: Noise-modulated multistable synapses in a Wilson-Cowan-based model of plasticity</title>
-      <link>https://spinlab-uom.github.io/news/news-4/</link>
+      <link>http://localhost:1313/news/news-4/</link>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/news/news-4/</guid>
-      <description>In our latest computational paper we investigate plasticity dynamics in a WC-based model of interacting neural populations coupled with activity-dependent synapses in which a periodic stimulation was applied in the presence of noise of controlled intensity. We found that for a narrow range of the noise variance, synaptic strength can be optimized. In particular, there is a regime of noise intensity for which synaptic strength presents a triple-stable state. Regulating noise intensity affects the probability that the system chooses one of the stable states, thereby controlling plasticity.</description>
+      <guid>http://localhost:1313/news/news-4/</guid>
+      <description>&lt;p&gt;In our latest computational paper we investigate plasticity dynamics in a WC-based model of interacting neural populations coupled with activity-dependent synapses in which a periodic stimulation was applied in the presence of noise of controlled intensity. We found that for a narrow range of the noise variance, synaptic strength can be optimized. In particular, there is a regime of noise intensity for which synaptic strength presents a triple-stable state. Regulating noise intensity affects the probability that the system chooses one of the stable states, thereby controlling plasticity.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New Paper: A mean-field model of glutamate and GABA synaptic dynamics for functional MRS</title>
-      <link>https://spinlab-uom.github.io/news/news-5/</link>
+      <link>http://localhost:1313/news/news-5/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/news/news-5/</guid>
-      <description>In our latest paper we test the hypothesis that fMRS detects shifts in metabolite concentrations as they move from presynaptic vesicles, where they are largely invisible to MRS, to extracellular and cytosolic pools, where they are visible to MRS using a mean field model which links the neural dynamics of neurotransmitters at the microscopic-level to the macroscopic-level imaging measurements obtained in experimental studies.
-A mean-field model of glutamate and GABA synaptic dynamics for functional MRS Lea-Carnall CA, El-Deredy W, Stagg CJ, Williams SR, Trujillo-Barreto NJ, NeuroImage, DOI: 10.</description>
+      <guid>http://localhost:1313/news/news-5/</guid>
+      <description>&lt;p&gt;In our latest paper we test the hypothesis that fMRS detects shifts in metabolite concentrations as they move from presynaptic vesicles, where they are largely invisible to MRS, to extracellular and cytosolic pools, where they are visible to MRS using a mean field model which links the neural dynamics of neurotransmitters at the microscopic-level to the macroscopic-level imaging measurements obtained in experimental studies.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.neuroimage.2022.119813&#34;&gt;A mean-field model of glutamate and GABA synaptic dynamics for functional MRS&lt;/a&gt; Lea-Carnall CA, El-Deredy W, Stagg CJ, Williams SR, Trujillo-Barreto NJ, NeuroImage, DOI: 10.1016/j.neuroimage.2022.119813&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

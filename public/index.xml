@@ -2,276 +2,193 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to the SPiN-LAB on SPiN-LAB Studying Plasticity in Neurodevelopment</title>
-    <link>https://spinlab-uom.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Welcome to the SPiN-LAB on SPiN-LAB Studying Plasticity in Neurodevelopment</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://spinlab-uom.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://spinlab-uom.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/about/</guid>
-      <description>Left to right: Varun, Georgia, Caroline, Anna, and Shruti. We will need a new team photo as the lab has already grown since this was taken!
-We are a research group based at the Univerity of Manchester interested in mechanisms of brain plasticity during neurodevelopment. We use a combination of advanced brain imaging and computational methods to understand how brain plasticity is altered in certain genetic conditions and how that affects learning.</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Headshots/team-pic.jpg&#34; alt=&#34;img&#34;&gt;&#xA;Left to right: Varun, Georgia, Caroline, Anna, and Shruti. We will need a new team photo as the lab has already grown since this was taken!&lt;/p&gt;&#xA;&lt;p&gt;We are a research group based at the Univerity of Manchester interested in mechanisms of brain plasticity during neurodevelopment. We use a combination of advanced brain imaging and computational methods to understand how brain plasticity is altered in certain genetic conditions and how that affects learning.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Publications</title>
-      <link>https://spinlab-uom.github.io/publications/</link>
+      <link>http://localhost:1313/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/publications/</guid>
-      <description>2025 Emergence of multiple spontaneous coherent subnetworks from a single configuration of human connectome coupled oscillators model Torres FA, Otero M, Lea-Carnall CA, et al. Sci Rep, DOI:10.1038/s41598-024-80510-2
-Depression, brain structure and socioeconomic status: A UK Biobank study. Johns S, Lea-Carnall C, Shryane N, Maharani A. J Affect Disord, DOI:1016/j.jad.2024.09.102
-Evidence for biexponential glutamate T2 relaxation in human visual cortex at 3T: A functional MRS study Emeliyanova P, Parkes LM, Williams SR, Lea-Carnall CA.</description>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h3 id=&#34;_2025_&#34;&gt;&lt;em&gt;2025&lt;/em&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S2666956025000261&#34;&gt;Non-invasive brain stimulation reorganises effective connectivity during a working memory task in individuals with Neurofibromatosis Type 1&lt;/a&gt;&#xA;Litwińczuk MC, &lt;em&gt;et al.&lt;/em&gt;&#xA;NeuroImage: Reports. doi: 10.1016/j.ynirp.2025.100258&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2025.04.10.648210v2&#34;&gt;Functional connectivity reveals increased network segregation and sensorimotor processing during working memory in adolescents with Neurofibromatosis Type 1&lt;/a&gt;&#xA;Litwińczuk MC, &lt;em&gt;et al.&lt;/em&gt;&#xA;bioRxiv. doi: 10.1101/2025.04.10.648210&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2025.04.10.648183v2&#34;&gt;Fronto-parietal effective connectivity during working memory in Neurofibromatosis Type 1 adolescents and neurotypical controls&lt;/a&gt;&#xA;Litwińczuk MC, &lt;em&gt;et al.&lt;/em&gt;&#xA;bioRxiv. doi: 10.1101/2025.04.10.648183&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lab Manual</title>
-      <link>https://spinlab-uom.github.io/lab-manual/</link>
+      <link>http://localhost:1313/lab-manual/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/lab-manual/</guid>
-      <description>Introduction Hello and welcome to the SPiN Lab! This manual lays out how the lab works, and the expectations of everyone within it
-Roles and Responsibilities PIs
-will have a vision for the lab and be aware of current research in our area
-will be actively submitting funding applications to support the science in the lab
-will support you in your career development
-will dedicate time to meeting with you to help you progress your science</description>
+      <guid>http://localhost:1313/lab-manual/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Hello and welcome to the SPiN Lab! This manual lays out how the lab works, and the expectations of everyone within it&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;roles-and-responsibilities&#34;&gt;Roles and Responsibilities&lt;/h3&gt;&#xA;&lt;p&gt;PIs&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;will have a vision for the lab and be aware of current research in our area&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;will be actively submitting funding applications to support the science in the lab&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;will support you in your career development&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;will dedicate time to meeting with you to help you progress your science&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>MRI Preparation</title>
-      <link>https://spinlab-uom.github.io/mri-preparation/</link>
-      <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/mri-preparation/</guid>
-      <description>Enim consequat sunt esse fugiat fugiat fugiat sint adipisicing ex ullamco dolor cupidatat quis. Cillum tempor labore laboris cillum aliquip incididunt velit elit deserunt. Aute nulla ex laboris proident et reprehenderit officia quis elit nisi Lorem. Consectetur sit magna duis ullamco aliquip incididunt nostrud elit est consequat sunt sit.</description>
-    </item>
-    
     <item>
       <title>Contact</title>
-      <link>https://spinlab-uom.github.io/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
-Your NameEmail AddressAn email address is required.Message</description>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out &lt;a href=&#34;https://formspree.io/&#34;&gt;Formspree&lt;/a&gt; for a simple, free form service.&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;form class=&#34;black-80 sans-serif&#34; accept-charset=&#34;UTF-8&#34; action=&#34;https://example.com&#34; method=&#34;POST&#34; role=&#34;form&#34;&gt;&#xD;&#xA;&#xD;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34;  for=&#34;name&#34;&gt;Your Name&lt;/label&gt;&#xD;&#xA;    &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;name&#34;/&gt;&#xD;&#xA;&#xD;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;email&#34;&gt;Email Address&lt;/label&gt;&#xD;&#xA;    &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;email&#34;/&gt;&#xD;&#xA;    &lt;div class=&#34;requirements f6 gray glow i ph3 overflow-hidden&#34;&gt;&#xD;&#xA;      An email address is required.&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;message&#34;&gt;Message&lt;/label&gt;&#xD;&#xA;    &lt;textarea id=&#34;message&#34; name=&#34;message&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn h4&#34; aria-labelledby=&#34;message&#34;&gt;&lt;/textarea&gt;&#xD;&#xA;&#xD;&#xA;    &lt;input class=&#34;db w-100 mv2 white pa3 bn hover-shadow hover-bg-black bg-animate bg-black&#34; type=&#34;submit&#34; value=&#34;Send&#34; /&gt;&#xD;&#xA;&#xD;&#xA;&lt;/form&gt;</description>
     </item>
-    
-    <item>
-      <title>SPiN-LAB attend 2025 BNA conference in Liverpool</title>
-      <link>https://spinlab-uom.github.io/news/news-11/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/news/news-11/</guid>
-      <description>&lt;p&gt;The SPiN-LAB had a great turnout for BNA 2025 in Liverpool with plenty of posters on display from the group.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://spinlab-uom.github.io/images/News_Images/Varun_BNA_2025.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>SPiN-LAB attend 2024 Global NF Conference in Brussels</title>
-      <link>https://spinlab-uom.github.io/news/news-7/</link>
-      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/news/news-7/</guid>
-      <description>&lt;p&gt;Two lab members presented their research at the 2024 Global NF Conference in Brussels, hosted by the Children’s Tumor Foundation.&lt;/p&gt;
-&lt;p&gt;Gamze&amp;rsquo;s study explored whether parent-infant interactions (PII) differ in infants with an increased likelihood of ADHD and infants with NF1 compared to typically developing infants at 10 and 14 months. The findings provide preliminary insights into the quality of PII in these groups, suggesting distinct interaction profiles. For NF1 infants, this is characterised mainly by mutuality, a tendency of lower parental sensitivity, and higher directiveness. For infants with elevated ADHD likelihood, the profile includes higher liveliness and lower negative affect.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://spinlab-uom.github.io/images/News_Images/gamze_nf1_2024.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>SPiN-LAB member awarded Summer studentship sponsored by the Neurofibromitosis Therapeutic Acceleration Programme (NTAP) at Johns Hopkins University</title>
-      <link>https://spinlab-uom.github.io/news/news-8/</link>
-      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/news/news-8/</guid>
-      <description>&lt;p&gt;Paola wins Summer studentship award sponsored by the Neurofibromitosis Therapeutic Acceleration Programme (NTAP) at Johns Hopkins University.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>SPiN-LAB attend 2024 ICIS conference in Glasgow</title>
-      <link>https://spinlab-uom.github.io/news/news-10/</link>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/news/news-10/</guid>
-      <description>&lt;p&gt;Sadali attended the 2024 ICIS conference held in Glasgow, where she was was part of a symposium that discussed Early Pathways to Neurodiversity in infants with an elevated likelihood of Autism Spectrum Condition and Attention Deficit Hyperactivity Disorder (ADHD). The symposium was composed of our collaborator Dr Jannath Begum Ali from Birkbeck, University of London, Natasha Lindsay and Dr Amy Goodwin from Kings College London. Sadali&amp;rsquo;s talk focused on early motor markers of ADHD traits in Neurofibromatosis 1. In this presentation, she discussed preliminary findings from a comparative analysis conducted between three 10- and 14- month old cohorts i.e., infants with NF1, typically developing infants and infants with an elevated likelihood of primary ADHD. This analysis incorporated motor data collected using accelerometery and standardised motor assessment scale metrics.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://spinlab-uom.github.io/images/News_Images/ICIS_2024.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>New paper: Rhythmic modulation of subthalamo-pallidal interactions depends on synaptic rewiring through inhibitory plasticity</title>
-      <link>https://spinlab-uom.github.io/news/news-9/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/news/news-9/</guid>
-      <description>&lt;p&gt;Check out our latest preprint where we model inhibitory synaptic plasticity in the STN-GPe loop!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://spinlab-uom.github.io/images/Paper_Images/Paper_CLC_2024_1.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>New paper: Temporal trends in eating disorder and self-harm incidence rates among adolescents and young adults in the UK</title>
-      <link>https://spinlab-uom.github.io/news/news-1/</link>
-      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/news/news-1/</guid>
-      <description>&lt;p&gt;In our latest paper we examine the incidence rates of these psychopathologies among young people in the UK in the 2 years following onset of the COVID-19 pandemic.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Fully funded EPSRC-DTP</title>
-      <link>https://spinlab-uom.github.io/news/news-2/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/news/news-2/</guid>
-      <description>We are recruting!
-Exploring how eye movements and pupil response during learning relate to neurotransmission: A combined neuroimaging and eye tracking study
-About the Project Glutamate and GABA are two important neurotransmitters in the brain. Glutamate is the main excitatory neurotransmitter, while GABA is the main inhibitory neurotransmitter. Glutamate and GABA work together to maintain a balance between excitation and inhibition in the brain, which is essential for normal cognitive function.</description>
-    </item>
-    
-    <item>
-      <title>New Paper: A Targeted, Low-Throughput Compound Screen in a Drosophila Model of Neurofibromatosis Type 1 Identifies Simvastatin and BMS-204352 as Potential Therapies for Autism Spectrum Disorder (ASD)</title>
-      <link>https://spinlab-uom.github.io/news/news-3/</link>
-      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/news/news-3/</guid>
-      <description>Check out our latest paper:
-A Targeted, Low-Throughput Compound Screen in a Drosophila Model of Neurofibromatosis Type 1 Identifies Simvastatin and BMS-204352 as Potential Therapies for Autism Spectrum Disorder (ASD) Dyson A, Ryan M, Garg S, Evans DG, Baines RA. eNeuro, DOI: 10.1523/ENEURO.0461-22.2023</description>
-    </item>
-    
-    <item>
-      <title>New Paper: Noise-modulated multistable synapses in a Wilson-Cowan-based model of plasticity</title>
-      <link>https://spinlab-uom.github.io/news/news-4/</link>
-      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/news/news-4/</guid>
-      <description>In our latest computational paper we investigate plasticity dynamics in a WC-based model of interacting neural populations coupled with activity-dependent synapses in which a periodic stimulation was applied in the presence of noise of controlled intensity. We found that for a narrow range of the noise variance, synaptic strength can be optimized. In particular, there is a regime of noise intensity for which synaptic strength presents a triple-stable state. Regulating noise intensity affects the probability that the system chooses one of the stable states, thereby controlling plasticity.</description>
-    </item>
-    
-    <item>
-      <title>New Paper: A mean-field model of glutamate and GABA synaptic dynamics for functional MRS</title>
-      <link>https://spinlab-uom.github.io/news/news-5/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/news/news-5/</guid>
-      <description>In our latest paper we test the hypothesis that fMRS detects shifts in metabolite concentrations as they move from presynaptic vesicles, where they are largely invisible to MRS, to extracellular and cytosolic pools, where they are visible to MRS using a mean field model which links the neural dynamics of neurotransmitters at the microscopic-level to the macroscopic-level imaging measurements obtained in experimental studies.
-A mean-field model of glutamate and GABA synaptic dynamics for functional MRS Lea-Carnall CA, El-Deredy W, Stagg CJ, Williams SR, Trujillo-Barreto NJ, NeuroImage, DOI: 10.</description>
-    </item>
-    
-    <item>
-      <title>Amir Abbas Khanbeigi</title>
-      <link>https://spinlab-uom.github.io/people/abbas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/people/abbas/</guid>
-      <description>I am a PhD student in computational neuroscience with a background in engineering and theoretical physics. My research includes providing mathematical framework to optimise the parameters of non-invasive brain stimulations with the purpose of improving Working Memory.
-More specifically, I am interested in bridging between empirical data and computational models of large-scale brain networks by drawing implications from latent manifold of neuroimaging data. With insights from dynamical systems and complex system physics, I seek to put constraints on computational models of brain networks using the embedding and intrinsic dimension of Working Memory manifold.</description>
-    </item>
-    
-    <item>
-      <title>Anna Wild</title>
-      <link>https://spinlab-uom.github.io/people/anna/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/people/anna/</guid>
-      <description>I studied an integrated Masters in Cognitive Neuroscience and Psychology at the University of Manchester from 2019 until 2023. Here, I developed an interest in neuroimaging and undertook MRI and fMRI analysis projects in my 3rd and 4th year. This included my yearlong master’s project, employing fMRI analysis to examine negativity biases in depression when listening to music. Currently, I am working as a PhD student in the SpiN-LAB.</description>
-    </item>
-    
     <item>
       <title>Caroline Lea-Carnall</title>
-      <link>https://spinlab-uom.github.io/people/caroline/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/people/caroline/</guid>
-      <description>I am a theoretical neuroscientist with a specific interest in the neurochemical mechanisms that underlie plasticity. I use a combination of computational and neuroimaging methods to study plasticity in humans in vivo.</description>
+      <link>http://localhost:1313/people/caroline/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/caroline/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;I am a theoretical neuroscientist with a specific interest in the neurochemical mechanisms that underlie plasticity. I use a combination of computational and neuroimaging methods to study plasticity in humans in vivo..&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Gamze Kaplan</title>
-      <link>https://spinlab-uom.github.io/people/gamze/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/people/gamze/</guid>
-      <description>Gamze Kaplan, MA
-Postgraduate Researcher - Faculty of Biology, Medicine and Health, University of Manchester
-After completing my undergraduate degree in Special Education, I pursued a master&amp;rsquo;s degree in Early Childhood Education at Anglia Ruskin University. During my time there, I conducted research on the experiences of first-generation immigrant parents while accessing early intervention services for their children with disabilities. Currently, I am a PhD researcher in the Division of Psychology at the University of Manchester.</description>
-    </item>
-    
-    <item>
-      <title>Jessica Ward</title>
-      <link>https://spinlab-uom.github.io/people/jess/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/people/jess/</guid>
-      <description>Jess is a Research Assistant with a background in Psychology. Jess holds a BSc(Hons) in Psychology from Lancaster University and an MSc in Clinical and Health Psychology from the University of Manchester. Jess has worked for the NHS within a learning disability and dementia service, and most recently worked as a Research Officer in Australia for the University of New South Wales. Jess is passionate about patient and public involvement and has extensive experience supporting people with lived experience to be involved and engaged in all stages of the research cycle.</description>
-    </item>
-    
-    <item>
-      <title>Marta Litwińczuk</title>
-      <link>https://spinlab-uom.github.io/people/czime/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/people/czime/</guid>
-      <description>I have joined the Spin-Lab in September 2023 as a Postdoctoral Research Associate in Neuroimaging and Computational Modelling. I have a background in undergraduate Psychology, where I developed an interest in neural basis of executive function, language, perception and wellbeing. I pursued my interests further with a Master&amp;rsquo;s degree in Neuroimaging for Clinical and Cognitive Neuroscience and followed by pursuit of a Ph.D. in Cognitive Neuroscience. During my Ph.D. I investigated how the relationship between structural and functional connectivity of the brain contributes to modelling of cognition.</description>
-    </item>
-    
-    <item>
-      <title>Matthew Mccowen</title>
-      <link>https://spinlab-uom.github.io/people/matthew/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/people/matthew/</guid>
-      <description>During my undergraduate studies in Psychology and my master&amp;rsquo;s in Neuroimaging for Clinical and Cognitive Neuroscience, I developed a strong interest in the neural mechanisms of memory. Currently, as an MRC-DTP PhD student, I am investigating the relationship between pupillary response, brain activation, and concentrations of GABA and glutamate during learning and memory processes in individuals with neurofibromatosis type 1 (NF1) as well as neurotypical controls. T</description>
-    </item>
-    
-    <item>
-      <title>Paola Martinez</title>
-      <link>https://spinlab-uom.github.io/people/paola/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/people/paola/</guid>
-      <description>I am a BSc Neuroscience student completing an Industrial Placement at the SPIN lab. My primary research project is titled ‘Comparing BOLD fMRI activation in the Dorsal Attention Network (DAN), Default Mode Network (DMN) and Fronto-Parietal Control Network (FPCN) in NF1 patients and controls, during a Verbal Working Memory Task’. Through this project I gained experience in cognitive data collection, data analysis, data management, project management and have obtained experience using MATLAB’s SPM for fMRI analysis.</description>
-    </item>
-    
-    <item>
-      <title>Sadali Wanniarachchi</title>
-      <link>https://spinlab-uom.github.io/people/sadali/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/people/sadali/</guid>
-      <description>I am an MRC-DTP student studying a PhD in cognitive neuroscience under the supervision of Dr Shruti Garg and Professor Jonathan Green. I completed my undergraduate degree in Applied Medical Sciences at University College London following which I did a Master of Research in neuroscience at the University of St Andrews. During my masters, I investigated the impact of optogenetic neuromodulation on locomotion in Drosophila Melanogaster larvae which prompted my interest in motor function.</description>
-    </item>
-    
     <item>
       <title>Shruti Garg</title>
-      <link>https://spinlab-uom.github.io/people/shruti/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/people/shruti/</guid>
-      <description>I did my general medical training at Grant Medical College, Mumbai India beofre training in general psychiatry at Oxford &amp;amp; Leeds. I moved to Manchester in 2008 to specialise in Child &amp;amp; Adolescent Psychiatry. I was awarded a research training fellowship by NIHR Bioedical Research centre in 2011-12 to study the behavioural phenotype of Neurofibromatosis type 1 (NF1). My PhD thesis described for the first time, a high prevalence of Autism Spectrum Disorders (ASD) in NF1.</description>
+      <link>http://localhost:1313/people/shruti/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/shruti/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;I did my general medical training at Grant Medical College, Mumbai India beofre training in general psychiatry at Oxford &amp;amp; Leeds. I moved to Manchester in 2008 to specialise in Child &amp;amp; Adolescent Psychiatry. I was awarded a research training fellowship by NIHR Bioedical Research centre in 2011-12 to study the behavioural phenotype of Neurofibromatosis type 1 (NF1). My PhD thesis described for the first time, a high prevalence of Autism Spectrum Disorders (ASD) in NF1. This work has formed the basis for my research programme in NF1 autism. In August 2018 I was awarded the Francis Collins Scholarship in NF1 by NTAP (Neurofibromatosis Therapeutics Acceleration Program), at John&amp;rsquo;s Hopkins University (&lt;a href=&#34;http://www.n-tap.org/new-research-tools-for-neurofibromatosis-type-1-2-2-2/)&#34;&gt;http://www.n-tap.org/new-research-tools-for-neurofibromatosis-type-1-2-2-2/)&lt;/a&gt;. This work will allow me to investigate the use of non-invasive brain stimulation for working memory deficits in NF1.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>SPiN-LAB attend 2025 BNA conference in Liverpool</title>
+      <link>http://localhost:1313/news/news-11/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/news-11/</guid>
+      <description>&lt;p&gt;The SPiN-LAB had a great turnout for BNA 2025 in Liverpool with plenty of posters on display from the group.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/News_Images/Varun_BNA_2025.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SPiN-LAB attend 2024 Global NF Conference in Brussels</title>
+      <link>http://localhost:1313/news/news-7/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/news-7/</guid>
+      <description>&lt;p&gt;Two lab members presented their research at the 2024 Global NF Conference in Brussels, hosted by the Children’s Tumor Foundation.&lt;/p&gt;&#xA;&lt;p&gt;Gamze&amp;rsquo;s study explored whether parent-infant interactions (PII) differ in infants with an increased likelihood of ADHD and infants with NF1 compared to typically developing infants at 10 and 14 months. The findings provide preliminary insights into the quality of PII in these groups, suggesting distinct interaction profiles. For NF1 infants, this is characterised mainly by mutuality, a tendency of lower parental sensitivity, and higher directiveness. For infants with elevated ADHD likelihood, the profile includes higher liveliness and lower negative affect.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/News_Images/gamze_nf1_2024.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SPiN-LAB member awarded Summer studentship sponsored by the Neurofibromitosis Therapeutic Acceleration Programme (NTAP) at Johns Hopkins University</title>
+      <link>http://localhost:1313/news/news-8/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/news-8/</guid>
+      <description>&lt;p&gt;Paola wins Summer studentship award sponsored by the Neurofibromitosis Therapeutic Acceleration Programme (NTAP) at Johns Hopkins University.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SPiN-LAB attend 2024 ICIS conference in Glasgow</title>
+      <link>http://localhost:1313/news/news-10/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/news-10/</guid>
+      <description>&lt;p&gt;Sadali attended the 2024 ICIS conference held in Glasgow, where she was was part of a symposium that discussed Early Pathways to Neurodiversity in infants with an elevated likelihood of Autism Spectrum Condition and Attention Deficit Hyperactivity Disorder (ADHD). The symposium was composed of our collaborator Dr Jannath Begum Ali from Birkbeck, University of London, Natasha Lindsay and Dr Amy Goodwin from Kings College London. Sadali&amp;rsquo;s talk focused on early motor markers of ADHD traits in Neurofibromatosis 1. In this presentation, she discussed preliminary findings from a comparative analysis conducted between three 10- and 14- month old cohorts i.e., infants with NF1, typically developing infants and infants with an elevated likelihood of primary ADHD. This analysis incorporated motor data collected using accelerometery and standardised motor assessment scale metrics.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/News_Images/ICIS_2024.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New paper: Rhythmic modulation of subthalamo-pallidal interactions depends on synaptic rewiring through inhibitory plasticity</title>
+      <link>http://localhost:1313/news/news-9/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/news-9/</guid>
+      <description>&lt;p&gt;Check out our latest preprint where we model inhibitory synaptic plasticity in the STN-GPe loop!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Paper_Images/Paper_CLC_2024_1.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New paper: Temporal trends in eating disorder and self-harm incidence rates among adolescents and young adults in the UK</title>
+      <link>http://localhost:1313/news/news-1/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/news-1/</guid>
+      <description>&lt;p&gt;In our latest paper we examine the incidence rates of these psychopathologies among young people in the UK in the 2 years following onset of the COVID-19 pandemic.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fully funded EPSRC-DTP</title>
+      <link>http://localhost:1313/news/news-2/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/news-2/</guid>
+      <description>&lt;p&gt;We are recruting!&lt;/p&gt;&#xA;&lt;p&gt;Exploring how eye movements and pupil response during learning relate to neurotransmission: A combined neuroimaging and eye tracking study&lt;/p&gt;&#xA;&lt;p&gt;About the Project&#xA;Glutamate and GABA are two important neurotransmitters in the brain. Glutamate is the main excitatory neurotransmitter, while GABA is the main inhibitory neurotransmitter. Glutamate and GABA work together to maintain a balance between excitation and inhibition in the brain, which is essential for normal cognitive function. Imbalance in glutamate and GABA levels has been linked to various neurological and psychiatric disorders and may underlie cognitive impairments (e.g., learning and memory disturbance) associated with these conditions. At the same time, oculomotor behaviour (eye movements) has been linked to memory encoding and retrieval processes, while an important physiological indicator of cognitive and memory processing is the pupillary response, which reflects the activity of the autonomic nervous system. Previous studies (see e.g., Kafkas, 2021) have shown that variations in pupillary responses in memory tasks are linked to differential neurotransmission in the brain and especially within prefrontal and hippocampal pathways, which are involved in memory formation and consolidation. However, to date, the degree to which glutamate and GABA neurotransmission modulates oculomotor and pupillary responses in learning and memory tasks has not been investigated. This kind of association may provide a novel biomarker for cognitive/memory function and will allow understanding of the mechanisms that result in cognitive deficits in neurodevelopmental disorders.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Paper: A Targeted, Low-Throughput Compound Screen in a Drosophila Model of Neurofibromatosis Type 1 Identifies Simvastatin and BMS-204352 as Potential Therapies for Autism Spectrum Disorder (ASD)</title>
+      <link>http://localhost:1313/news/news-3/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/news-3/</guid>
+      <description>&lt;p&gt;Check out our latest paper:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1523/ENEURO.0461-22.2023&#34;&gt;A Targeted, Low-Throughput Compound Screen in a Drosophila Model of Neurofibromatosis Type 1 Identifies Simvastatin and BMS-204352 as Potential Therapies for Autism Spectrum Disorder (ASD)&lt;/a&gt; Dyson A, Ryan M, Garg S, Evans DG, Baines RA. eNeuro, DOI: 10.1523/ENEURO.0461-22.2023&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Paper: Noise-modulated multistable synapses in a Wilson-Cowan-based model of plasticity</title>
+      <link>http://localhost:1313/news/news-4/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/news-4/</guid>
+      <description>&lt;p&gt;In our latest computational paper we investigate plasticity dynamics in a WC-based model of interacting neural populations coupled with activity-dependent synapses in which a periodic stimulation was applied in the presence of noise of controlled intensity. We found that for a narrow range of the noise variance, synaptic strength can be optimized. In particular, there is a regime of noise intensity for which synaptic strength presents a triple-stable state. Regulating noise intensity affects the probability that the system chooses one of the stable states, thereby controlling plasticity.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Paper: A mean-field model of glutamate and GABA synaptic dynamics for functional MRS</title>
+      <link>http://localhost:1313/news/news-5/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/news-5/</guid>
+      <description>&lt;p&gt;In our latest paper we test the hypothesis that fMRS detects shifts in metabolite concentrations as they move from presynaptic vesicles, where they are largely invisible to MRS, to extracellular and cytosolic pools, where they are visible to MRS using a mean field model which links the neural dynamics of neurotransmitters at the microscopic-level to the macroscopic-level imaging measurements obtained in experimental studies.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.neuroimage.2022.119813&#34;&gt;A mean-field model of glutamate and GABA synaptic dynamics for functional MRS&lt;/a&gt; Lea-Carnall CA, El-Deredy W, Stagg CJ, Williams SR, Trujillo-Barreto NJ, NeuroImage, DOI: 10.1016/j.neuroimage.2022.119813&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amir Abbas Khanbeigi</title>
+      <link>http://localhost:1313/people/abbas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/abbas/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;I am a PhD student in computational neuroscience with a background in engineering and theoretical physics. My research includes providing mathematical framework to optimise the parameters of non-invasive brain stimulations with the purpose of improving Working Memory.&lt;/p&gt;&#xA;&lt;p&gt;More specifically, I am interested in bridging between empirical data and computational models of large-scale brain networks by drawing implications from latent manifold of neuroimaging data. With insights from dynamical systems and complex system physics, I seek to put constraints on computational models of brain networks using the embedding and intrinsic dimension of Working Memory manifold.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anna Wild</title>
+      <link>http://localhost:1313/people/anna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/anna/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;I studied an integrated Masters in Cognitive Neuroscience and Psychology at the University of Manchester from 2019 until 2023. Here, I developed an interest in neuroimaging and undertook MRI and fMRI analysis projects in my 3rd and 4th year. This included my yearlong master’s project, employing fMRI analysis to examine negativity biases in depression when listening to music. Currently, I am working as a PhD student in the SpiN-LAB.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gamze Kaplan</title>
+      <link>http://localhost:1313/people/gamze/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/gamze/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Gamze Kaplan, MA&lt;/p&gt;&#xA;&lt;p&gt;Postgraduate Researcher - Faculty of Biology, Medicine and Health, University of Manchester&lt;/p&gt;&#xA;&lt;p&gt;After completing my undergraduate degree in Special Education, I pursued a master&amp;rsquo;s degree in Early Childhood Education at Anglia Ruskin University. During my time there, I conducted research on the experiences of first-generation immigrant parents while accessing early intervention services for their children with disabilities. Currently, I am a PhD researcher in the Division of Psychology at the University of Manchester. My project focuses on studying the psychological impact of NF1 on both children and parents. Specifically, I am exploring how expectant parents with NF1 experience pregnancy, and the parent-infant interaction patterns of infants with NF1 and familial ADHD likelihood.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Marta Litwińczuk</title>
+      <link>http://localhost:1313/people/czime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/czime/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;I have joined the Spin-Lab in September 2023 as a Postdoctoral Research Associate in Neuroimaging and Computational Modelling. I have a background in undergraduate Psychology, where I developed an interest in neural basis of executive function, language, perception and wellbeing. I pursued my interests further with a Master&amp;rsquo;s degree in Neuroimaging for Clinical and Cognitive Neuroscience and followed by pursuit of a Ph.D. in Cognitive Neuroscience. During my Ph.D. I investigated how the relationship between structural and functional connectivity of the brain contributes to modelling of cognition. My current research focuses on modelling effects of non-invasive brain stimulation on functional connectivity during working memory in neurofirbromatosis type 1 (NF1) and neurotypical controls.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Matthew Mccowen</title>
+      <link>http://localhost:1313/people/matthew/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/matthew/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;During my undergraduate studies in Psychology and my master&amp;rsquo;s in Neuroimaging for Clinical and Cognitive Neuroscience, I developed a strong interest in the neural mechanisms of memory. Currently, as an MRC-DTP PhD student, I am investigating the relationship between pupillary response, brain activation, and concentrations of GABA and glutamate during learning and memory processes in individuals with neurofibromatosis type 1 (NF1) as well as neurotypical controls. T&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Paola Martinez</title>
+      <link>http://localhost:1313/people/paola/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/paola/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;I am a BSc Neuroscience student completing an Industrial Placement at the SPIN  lab. My primary research project is titled ‘Comparing BOLD fMRI activation in the Dorsal Attention Network (DAN), Default Mode Network (DMN) and Fronto-Parietal Control Network (FPCN) in NF1 patients and controls, during a Verbal Working Memory Task’. Through this project I gained experience in cognitive data collection, data analysis, data management, project management and have obtained experience using MATLAB’s SPM for fMRI analysis. My current supervisors are Dr Marta Czime Litwińczuk and Dr Shruti Garg.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rebecca Pycko</title>
+      <link>http://localhost:1313/people/abbas-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/abbas-copy/</guid>
+      <description>&lt;p&gt;Following completion of my undergraduate degree in Nursing Studies (Mental Health) I worked as a Mental Health Nurse for 14 years in a variety of NHS services- primarily working with Children and Young People.&lt;/p&gt;&#xA;&lt;p&gt;During this time, I developed a keen interest in research informed practice and cognitive neuroscience, completing a MSc in Clinical Cognitive Neuroscience in 2019. I am particularly interested in contributing to our understanding of mental health and neurodevelopmental conditions and how this knowledge can then be translated to drive successful outcomes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sadali Wanniarachchi</title>
+      <link>http://localhost:1313/people/sadali/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/sadali/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;I am an MRC-DTP student studying a PhD in cognitive neuroscience under the supervision of Dr Shruti Garg and Professor Jonathan Green. I completed my undergraduate degree in Applied Medical Sciences at University College London following which I did a Master of Research in neuroscience at the University of St Andrews. During my masters, I investigated the impact of optogenetic neuromodulation on locomotion in Drosophila Melanogaster larvae which prompted my interest in motor function. I am currently investigating early neurophysiological and motor markers of ADHD traits in NF1.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Tom Wright</title>
-      <link>https://spinlab-uom.github.io/people/tom/</link>
+      <link>http://localhost:1313/people/tom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/people/tom/</guid>
-      <description>I graduated with an MBChB(Hons) from the University of Liverpool in 2013 and gained MRCP(UK) in 2017. I completed the UK foundation programme and core medical training in Merseyside and South Yorkshire, respectively. Following on from this, I undertook an MSc in Human and Molecular Genetics at the University of Sheffield and began higher specialty training in Clinical Genetics in 2020. I have temporarily paused this role to undertake a Clinical Doctoral Fellowship funded by the NIHR Manchester Biomedical Research Centre (BRC), under the primary supervision of Dr Shruti Garg.</description>
+      <guid>http://localhost:1313/people/tom/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;I graduated with an MBChB(Hons) from the University of Liverpool in 2013 and gained MRCP(UK) in 2017. I completed the UK foundation programme and core medical training in Merseyside and South Yorkshire, respectively. Following on from this, I undertook an MSc in Human and Molecular Genetics at the University of Sheffield and began higher specialty training in Clinical Genetics in 2020. I have temporarily paused this role to undertake a Clinical Doctoral Fellowship funded by the NIHR Manchester Biomedical Research Centre (BRC), under the primary supervision of Dr Shruti Garg.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Varun Chandran</title>
-      <link>https://spinlab-uom.github.io/people/varun/</link>
+      <link>http://localhost:1313/people/varun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://spinlab-uom.github.io/people/varun/</guid>
-      <description>Varun Arunachalam Chandran, PhD
-Postdoctoral Research Associate- Faculty of biology, medicine and health, University of Manchester
-I completed my doctoral study in Neurosciences at the University of Reading. My doctoral research was aimed to investigate the neural correlates of autistic traits across the clinical and non-clinical population using a dimensional approach. To address this, I used multimodal brain imaging techniques including Diffusion Tensor Imaging, Structural MRI, and resting-state functional MRI to examine the white matter microstructure, grey matter (cortical volume, thickness, surface area and gyrification), and intrinsic functional connectivity (resting state networks).</description>
+      <guid>http://localhost:1313/people/varun/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Varun Arunachalam Chandran, PhD&lt;/p&gt;&#xA;&lt;p&gt;Postdoctoral Research Associate- Faculty of biology, medicine and health, University of Manchester&lt;/p&gt;&#xA;&lt;p&gt;I completed my doctoral study in Neurosciences at the University of Reading. My doctoral research was aimed to investigate the neural correlates of autistic traits across the clinical and non-clinical population using a dimensional approach. To address this, I used multimodal brain imaging techniques including Diffusion Tensor Imaging, Structural MRI, and resting-state functional MRI to examine the white matter microstructure, grey matter (cortical volume, thickness, surface area and gyrification), and intrinsic functional connectivity (resting state networks).&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
