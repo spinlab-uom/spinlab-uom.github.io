@@ -15,5 +15,5 @@ Follow SPiN-LAB on [Blusky](https://bsky.app/profile/spinlab.bsky.social)
 
 Follow us on LinkedIn:
 
-- [Caroline Lea-Carnall](www.linkedin.com/in/caroline-lea-carnall-54050a207)
+- [Caroline Lea-Carnall](https://www.linkedin.com/in/caroline-lea-carnall-54050a207/)
 - [Shruti Garg](https://www.linkedin.com/in/shruti-garg-99874a318/) 
