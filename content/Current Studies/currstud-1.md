@@ -9,7 +9,7 @@ omit_header_text: "True"
 summary: ""
 ---
 
-![img](/images/News_Images/test1.jpg)
+![img](/images/News_Images/test2.png)
 
 ### What is this study about
 
