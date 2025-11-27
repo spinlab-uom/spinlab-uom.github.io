@@ -2,23 +2,20 @@
 date: ""
 description: ""
 # featured_image: ""
-summary_image: "/images/CurrStud_Images/MEK_Image.png"
+summary_image: ""
 title: "Impact of MEKi on learning"
 omit_header_text: "True"
 # summary: "this is my summary"
-summary: "In this study, we’ll be using different tests to see how MEK inhibitors (MEKi -a medicine taken for some of the physical symptoms of NF1) affect learning, attention and mood in children with NF1."
+summary: ""
 ---
+
+![img](/images/News_Images/gamze_nf1_2024.jpg)
 
 ### What is this study about
 
 In this study, we’ll be using different tests to see how MEK inhibitors (MEKi -a medicine taken for some of the physical symptoms of NF1) affect learning, attention and mood in children with NF1. 
 
-![img](/images/CurrStud_Images/MEK_Image.png)
-
-
 <!--more-->
-
-In this study, we’ll be using different tests to see how MEK inhibitors (MEKi -a medicine taken for some of the physical symptoms of NF1) affect learning, attention and mood in children with NF1. 
 
 ### Why is this study being done? 
 
