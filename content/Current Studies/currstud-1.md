@@ -9,7 +9,7 @@ omit_header_text: "True"
 summary: ""
 ---
 
-![img](/images/CurrStud_Images/test2.png)
+![img](/images/CurrStud_Images/Becky_Study.jpeg)
 
 ### What is this study about
 
@@ -24,6 +24,8 @@ Children with NF1 are more likely to have some trouble with learning, memory and
 ### What are we doing?
 
 We are going to work with young people and their families who are just starting to take MEKi to explore the impact of the medication on different aspects of the brain and body. 
+
+{{< video src="/videos/EEG_Scan.mp4" width="800" height="600" alt="EEG scan demonstration" >}}
 
 ### How will we do this?
 
@@ -48,5 +50,14 @@ This study is currently recruiting, and it is expected to run until spring 2027.
 
 We’d love to hear from you so if you have any questions or would like to talk to us about taking part please email us at: nfresearch@manchester.ac.uk 
 
-Alternatively, the study information leaflets (click below/link) have more information if you’d like to find out more. 
+Alternatively, the study information leaflets (click the links below) have more information if you’d like to find out more. 
 
+<video controls width="600"> <source src="/videos/EEG_Scan.mp4" type="video/mp4"> </video>
+
+[Download the Parental Participant Information Sheet here]( /files/ParentPIS_MEKI.pdf )
+
+[Download Information Sheet for Children and Young People here]( /files/ChildPIS_MEKI.pdf )
+
+![img](/images/CurrStud_Images/MEKi_Logo.png)
+
+[def]: videos/EEG_Scan.mp

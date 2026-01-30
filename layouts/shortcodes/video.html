@@ -1,0 +1,8 @@
+<video width="{{ .Get "width" | default "640" }}" height="{{ .Get "height" | default "360" }}" controls style="max-width: 100%; height: auto;">
+  <source src="{{ .Get "src" }}" type="video/mp4">
+  {{ with .Get "alt" }}
+  <p>{{ . }}</p>
+  {{ else }}
+  <p>Your browser does not support the video tag.</p>
+  {{ end }}
+</video>
