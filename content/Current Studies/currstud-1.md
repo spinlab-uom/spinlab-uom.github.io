@@ -25,7 +25,7 @@ Children with NF1 are more likely to have some trouble with learning, memory and
 
 We are going to work with young people and their families who are just starting to take MEKi to explore the impact of the medication on different aspects of the brain and body. 
 
-{{< video src="/videos/EEG_Scan.mp4" width="800" height="600" alt="EEG scan demonstration" >}}
+{{< video src="/videos/Study_Information.mp4" width="800" height="600" alt="Study Information" >}}
 
 ### How will we do this?
 
@@ -36,6 +36,8 @@ We will use a variety of methods including:
 - Brain games
 
 Some young people will also have their blood looked at and can take part in a conversation with researchers about any changes they’ve noticed after taking the medication for a few months.
+
+{{< video src="/videos/EEG_Scan.mp4" width="800" height="600" alt="EEG scan demonstration" >}}
 
 ### Who can take part?
 
@@ -52,7 +54,6 @@ We’d love to hear from you so if you have any questions or would like to talk 
 
 Alternatively, the study information leaflets (click the links below) have more information if you’d like to find out more. 
 
-<video controls width="600"> <source src="/videos/EEG_Scan.mp4" type="video/mp4"> </video>
 
 [Download the Parental Participant Information Sheet here]( /files/ParentPIS_MEKI.pdf )
 
