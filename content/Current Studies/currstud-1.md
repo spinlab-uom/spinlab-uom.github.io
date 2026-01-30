@@ -9,7 +9,7 @@ omit_header_text: "True"
 summary: ""
 ---
 
-![img](/images/CurrStud_Images/Becky_Study.jpeg)
+{{< figure src="/images/CurrStud_Images/Becky_Study.jpeg" width="350" height="350" >}}
 
 ### What is this study about
 
@@ -58,6 +58,7 @@ Alternatively, the study information leaflets (click the links below) have more 
 
 [Download Information Sheet for Children and Young People here]( /files/ChildPIS_MEKI.pdf )
 
-![img](/images/CurrStud_Images/MEKi_Logo.png)
+{{< figure src="/images/CurrStud_Images/MEKi_Logo.png" width="350" height="350" >}}
 
-[def]: videos/EEG_Scan.mp
+
+<!-- ![img](/images/CurrStud_Images/MEKi_Logo.png) -->
