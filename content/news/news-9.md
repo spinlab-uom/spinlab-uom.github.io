@@ -1,20 +1,24 @@
 ---
-date: 2024-01-01
+date: 2026-05-30
 description: ""
 # featured_image: "/images/Paper_Images/Paper_SG_2023_2.png"
-summary_image: "/images/Paper_Images/Paper_CLC_2024_1.png"
-title: "New paper: Rhythmic modulation of subthalamo-pallidal interactions depends on synaptic rewiring through inhibitory plasticity"
+summary_image: "/images/News_Images/CYP-NF1-event.jpg"
+title: "SPiN-LAB attend 2025 BNA conference in Liverpool"
 omit_header_text: "True"
-# summary: "this is my summary"
+summary: "Families and researchers unite at Neurofibromatosis type 1 Community Festival"
 ---
 
-Check out our latest preprint where we model inhibitory synaptic plasticity in the STN-GPe loop!
+Families and researchers unite at Neurofibromatosis type 1 Community Festival 
 
-![img](/images/Paper_Images/Paper_CLC_2024_1.png)
+![img](/images/News_Images/CYP-NF1-event.jpg)
 
 <!--more-->
 
-[Rhythmic modulation of subthalamo-pallidal interactions depends on synaptic rewiring through inhibitory plasticity](<https://https://www.biorxiv.org/content/10.1101/2024.07.01.601477v1.abstract>) Mojtaba Madadi Asl & Caroline A. Lea-Carnall
+A write up of our recent NF1 Community Festival! The event was held at Manchester Museum and was curated by the SPiN-LAB. The NF community is central to our research and it was fantastic for the community to have the opportunity to interact with researchers, clinicians and charity representatives from Childhood Tumour Trust and Nerve Tumours UK.
 
+Please read more here: https://oxfordhealthbrc.nihr.ac.uk/families-and-researchers-unite-at-neurofibromatosis-type-1-community-festival/
+
+
+<!--more-->
 
 
