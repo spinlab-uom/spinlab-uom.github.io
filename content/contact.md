@@ -17,3 +17,4 @@ Follow us on LinkedIn:
 
 - [Caroline Lea-Carnall](https://www.linkedin.com/in/caroline-lea-carnall-54050a207/)
 - [Shruti Garg](https://www.linkedin.com/in/shruti-garg-99874a318/) 
+- [Yuping Yang](https://www.linkedin.com/in/yuping-y-9943381ba/)
