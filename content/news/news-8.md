@@ -3,9 +3,9 @@ date: 2026-05-28
 description: ""
 #featured_image: "/images/Paper_Images/Paper_SG_2023_2.png"
 summary_image: "/images/News_Images/brain_art.jpg"
-title: "SPiN-LAB attend 2025 BNA conference in Liverpool"
+title: "Beyond Diagnosis: NF1 Community Festival"
 omit_header_text: "True"
-summary: "Beyond Diagnosis: NF1 Community Festival"
+summary: "A write up of our recent community festival by Dr Yuping Yang"
 ---
 
 Beyond Diagnosis: NF1 Community Festival

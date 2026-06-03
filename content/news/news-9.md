@@ -3,9 +3,9 @@ date: 2026-05-30
 description: ""
 # featured_image: "/images/Paper_Images/Paper_SG_2023_2.png"
 summary_image: "/images/News_Images/CYP-NF1-event.jpg"
-title: "SPiN-LAB attend 2025 BNA conference in Liverpool"
+title: "Neurofibromatosis type 1 Community Festival"
 omit_header_text: "True"
-summary: "Families and researchers unite at Neurofibromatosis type 1 Community Festival"
+summary: "An article from NIHR about our recent event."
 ---
 
 Families and researchers unite at Neurofibromatosis type 1 Community Festival 
