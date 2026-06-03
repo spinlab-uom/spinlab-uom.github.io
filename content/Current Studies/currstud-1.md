@@ -2,7 +2,7 @@
 date: ""
 description: ""
 # featured_image: ""
-summary_image: ""
+summary_image: "/images/CurrStud_Images/Becky_Study.jpeg" 
 title: "Impact of MEKi on learning"
 omit_header_text: "True"
 # summary: "this is my summary"
