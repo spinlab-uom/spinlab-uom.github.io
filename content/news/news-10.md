@@ -2,7 +2,7 @@
 date: 2024-06-10
 description: ""
 # featured_image: "/images/Paper_Images/Paper_SG_2023_2.png"
-summary_image: "/images/Paper_Images/Paper_SG_2023_2.png"
+summary_image: "/images/News_Images/ICIS_2024.jpg"
 title: "SPiN-LAB attend 2024 ICIS conference in Glasgow"
 omit_header_text: "True"
 # summary: "this is my summary"

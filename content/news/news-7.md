@@ -2,7 +2,7 @@
 date: 2024-06-30
 description: ""
 # featured_image: "/images/Paper_Images/Paper_SG_2023_2.png"
-summary_image: "/images/Paper_Images/Paper_SG_2023_2.png"
+summary_image: "/images/News_Images/gamze_nf1_2024.jpg"
 title: "SPiN-LAB attend 2024 Global NF Conference in Brussels"
 omit_header_text: "True"
 # summary: "this is my summary"
