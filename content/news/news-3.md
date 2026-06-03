@@ -1,12 +1,17 @@
 ---
-date: 2023-02-01
+date: 2024-06-10
 description: ""
-#featured_image: "/images/Paper_Images/Paper_CLC_2023_1.png"
-summary_image: "/images/Paper_Images/Paper_CLC_2023_1.png"
-title: "New Paper: A mean-field model of glutamate and GABA synaptic dynamics for functional MRS"
+# featured_image: "/images/Paper_Images/Paper_SG_2023_2.png"
+summary_image: "/images/News_Images/ICIS_2024.jpg"
+title: "SPiN-LAB attend 2024 ICIS conference in Glasgow"
 omit_header_text: "True"
+# summary: "this is my summary"
 ---
 
-In our latest paper we test the hypothesis that fMRS detects shifts in metabolite concentrations as they move from presynaptic vesicles, where they are largely invisible to MRS, to extracellular and cytosolic pools, where they are visible to MRS using a mean field model which links the neural dynamics of neurotransmitters at the microscopic-level to the macroscopic-level imaging measurements obtained in experimental studies.
+Sadali attended the 2024 ICIS conference held in Glasgow, where she was was part of a symposium that discussed Early Pathways to Neurodiversity in infants with an elevated likelihood of Autism Spectrum Condition and Attention Deficit Hyperactivity Disorder (ADHD). The symposium was composed of our collaborator Dr Jannath Begum Ali from Birkbeck, University of London, Natasha Lindsay and Dr Amy Goodwin from Kings College London. Sadali's talk focused on early motor markers of ADHD traits in Neurofibromatosis 1. In this presentation, she discussed preliminary findings from a comparative analysis conducted between three 10- and 14- month old cohorts i.e., infants with NF1, typically developing infants and infants with an elevated likelihood of primary ADHD. This analysis incorporated motor data collected using accelerometery and standardised motor assessment scale metrics.
 
-[A mean-field model of glutamate and GABA synaptic dynamics for functional MRS](https://doi.org/10.1016/j.neuroimage.2022.119813) Lea-Carnall CA, El-Deredy W, Stagg CJ, Williams SR, Trujillo-Barreto NJ, NeuroImage, DOI: 10.1016/j.neuroimage.2022.119813
+![img](/images/News_Images/ICIS_2024.jpg)
+
+<!--more-->
+
+

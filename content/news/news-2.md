@@ -1,12 +1,22 @@
 ---
-date: 2023-02-02
+date: 2024-06-30
 description: ""
-#featured_image: "/images/Paper_Images/Paper_CLC_2023_2.png"
-summary_image: "/images/Paper_Images/Paper_CLC_2023_2.png"
-title: "New Paper: Noise-modulated multistable synapses in a Wilson-Cowan-based model of plasticity"
+# featured_image: "/images/Paper_Images/Paper_SG_2023_2.png"
+summary_image: "/images/News_Images/gamze_nf1_2024.jpg"
+title: "SPiN-LAB attend 2024 Global NF Conference in Brussels"
 omit_header_text: "True"
+# summary: "this is my summary"
 ---
 
-In our latest computational paper we investigate plasticity dynamics in a WC-based model of interacting neural populations coupled with activity-dependent synapses in which a periodic stimulation was applied in the presence of noise of controlled intensity. We found that for a narrow range of the noise variance, synaptic strength can be optimized. In particular, there is a regime of noise intensity for which synaptic strength presents a triple-stable state. Regulating noise intensity affects the probability that the system chooses one of the stable states, thereby controlling plasticity.
+Two lab members presented their research at the 2024 Global NF Conference in Brussels, hosted by the Children’s Tumor Foundation. 
 
-[Noise-modulated multistable synapses in a Wilson-Cowan-based model of plasticity](https://doi.org/10.3389/fncom.2023.1017075) Lea-Carnall CA, Tanner LI, Montemurro MA. Frontiers in Computational Neuroscience, DOI: 10.3389/fncom.2023.1017075.
+Gamze's study explored whether parent-infant interactions (PII) differ in infants with an increased likelihood of ADHD and infants with NF1 compared to typically developing infants at 10 and 14 months. The findings provide preliminary insights into the quality of PII in these groups, suggesting distinct interaction profiles. For NF1 infants, this is characterised mainly by mutuality, a tendency of lower parental sensitivity, and higher directiveness. For infants with elevated ADHD likelihood, the profile includes higher liveliness and lower negative affect.
+
+![img](/images/News_Images/gamze_nf1_2024.jpg)
+
+<!--more-->
+
+Czime is using DCM to uncover differences in effective connectivity between NF1 adolescents and controls during a working memory task. Czime's poster was nominated for a prize - well done Czime and Gamze!
+
+![img](/images/News_Images/czime_nf1_2024.jpg)
+

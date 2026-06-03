@@ -1,16 +1,23 @@
 ---
-date: 2024-06-10
+date: 2026-05-30
 description: ""
 # featured_image: "/images/Paper_Images/Paper_SG_2023_2.png"
-summary_image: "/images/News_Images/ICIS_2024.jpg"
-title: "SPiN-LAB attend 2024 ICIS conference in Glasgow"
+summary_image: "/images/News_Images/CYP-NF1-event.jpg"
+title: "Neurofibromatosis type 1 Community Festival"
 omit_header_text: "True"
-# summary: "this is my summary"
+summary: "An article from NIHR about our recent event."
 ---
 
-Sadali attended the 2024 ICIS conference held in Glasgow, where she was was part of a symposium that discussed Early Pathways to Neurodiversity in infants with an elevated likelihood of Autism Spectrum Condition and Attention Deficit Hyperactivity Disorder (ADHD). The symposium was composed of our collaborator Dr Jannath Begum Ali from Birkbeck, University of London, Natasha Lindsay and Dr Amy Goodwin from Kings College London. Sadali's talk focused on early motor markers of ADHD traits in Neurofibromatosis 1. In this presentation, she discussed preliminary findings from a comparative analysis conducted between three 10- and 14- month old cohorts i.e., infants with NF1, typically developing infants and infants with an elevated likelihood of primary ADHD. This analysis incorporated motor data collected using accelerometery and standardised motor assessment scale metrics.
+Families and researchers unite at Neurofibromatosis type 1 Community Festival 
 
-![img](/images/News_Images/ICIS_2024.jpg)
+![img](/images/News_Images/CYP-NF1-event.jpg)
+
+<!--more-->
+
+A write up of our recent NF1 Community Festival! The event was held at Manchester Museum and was curated by the SPiN-LAB. The NF community is central to our research and it was fantastic for the community to have the opportunity to interact with researchers, clinicians and charity representatives from Childhood Tumour Trust and Nerve Tumours UK.
+
+Please read more here: https://oxfordhealthbrc.nihr.ac.uk/families-and-researchers-unite-at-neurofibromatosis-type-1-community-festival/
+
 
 <!--more-->
 

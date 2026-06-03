@@ -1,20 +1,24 @@
 ---
-date: 2024-01-01
+date: 2026-05-28
 description: ""
-# featured_image: "/images/Paper_Images/Paper_SG_2023_2.png"
-summary_image: "/images/Paper_Images/Paper_CLC_2024_1.png"
-title: "New paper: Rhythmic modulation of subthalamo-pallidal interactions depends on synaptic rewiring through inhibitory plasticity"
+#featured_image: "/images/Paper_Images/Paper_SG_2023_2.png"
+summary_image: "/images/News_Images/brain_art.jpg"
+title: "Beyond Diagnosis: NF1 Community Festival"
 omit_header_text: "True"
-# summary: "this is my summary"
+summary: "A write up of our recent community festival by Dr Yuping Yang."
 ---
 
-Check out our latest preprint where we model inhibitory synaptic plasticity in the STN-GPe loop!
+Beyond Diagnosis: NF1 Community Festival
 
-![img](/images/Paper_Images/Paper_CLC_2024_1.png)
+![img](/images/News_Images/brain_art.jpg)
 
 <!--more-->
 
-[Rhythmic modulation of subthalamo-pallidal interactions depends on synaptic rewiring through inhibitory plasticity](<https://https://www.biorxiv.org/content/10.1101/2024.07.01.601477v1.abstract>) Mojtaba Madadi Asl & Caroline A. Lea-Carnall
+Dr Yuping Yang of the Studying Plasticity in Neurodevelopment (SPiN) Lab talks about the Beyond Diagnosis: NF1 Community Festival to raise awareness of and explore experiences of neurofibromatosis type 1 (NF1). 
 
+Please read here: https://sites.manchester.ac.uk/socialdevelopment/2026/05/28/beyond-diagnosis-nf1-community-festival/
+
+
+<!--more-->
 
 

@@ -15,37 +15,48 @@ weight: 4
 
 [A systematic review of functional brain imaging studies in NF1](https://link.springer.com/article/10.1007/s11065-026-09695-9)
 Wild A, *et al.* 
-Neuropsychol Rev. doi:10.1007/s11065-026-09695-9. 
+Neuropsychol Rev. doi:10.1007/s11065-026-09695-9
 
 [Disrupted frontoparietal dynamics in NF1: reduced sensitivity and atypical modulation during working memory](https://doi.org/10.1002/hbm.70464)
 Litwińczuk MC, *et al.* 
-Human Brain Mapping. doi:10.1002/hbm.70464. 
+Human Brain Mapping. doi:10.1002/hbm.70464
 
 [Mapping myelin alterations in NF1 using magnetization transfer and T1W/T2W ratio imaging](https://doi.org/10.64898/2025.12.09.25341878) Chandran VA, *et al.*
 medRxiv. doi:10.64898/2025.12.09.25341878
+
+[Systematic mapping of rare genetic disease studies using UK primary care electronic health records](https://doi.org/10.1038/s41431-026-02114-w) Wright TEB, *et al.*
+European Journal of Human Genetics. doi:10.1038/s41431-026-02114-w
+
+[NF1-specific growth charts for head circumference over the first 3 years of life](https://doi.org/10.1212/WNL.0000000000214480) Mandal AS, *et al.*
+Neurology. doi:10.1212/WNL.0000000000214480
+
+[Decreased attention in 10- and 14-month-olds with NF1 and association with later ADHD traits](https://doi.org/10.1186/s11689-026-09702-3) Bazelmans T, *et al.*
+Journal of Neurodevelopmental Disorders. doi: 10.1186/s11689-026-09702-3
+
+[Pregnancy experiences of expectant parents with NF1: a qualitative interview study](https://www.nature.com/articles/s41431-026-02099-6) Kaplan G et al, *et al.*
+European Journal of Human Genetics. doi:10.1038/s41431-026-02099-6
+
+
+[Childhood, adolescent and young adult cancer and the prevalence of diagnosed autism or ADHD: A systematic review and meta-analysis](https://doi.org/10.1016/j.ejcped.2026.100519) Slevin H, *et al.*
+EJC Paediatric Oncology. doi: 10.1016/j.ejcped.2026.100519
 
 
 ---
 
 ### _2025_
 
-[Quantitative Grey/White Matter Myelin differences in Neurofibromatosis Type-1 using T1W/T2W ratio](https://doi.org/10.1101/2025.03.28.25324840)
+[Healthcare professionals' perspectives on supporting individuals with NF1 during pregnancy and decision-making processes](https://doi.org/10.1002/jgc4.70137) Kaplan G, *et al.*
+Journal of Genetic Counseling. doi:10.1002/jgc4.70137
+
+[Quantitative Grey/White Matter Myelin differences in NF1 using T1W/T2W ratio](https://doi.org/10.1101/2025.03.28.25324840)
 Chandran VA, *et al.* 
 medRxiv. doi:10.1101/2025.03.28.25324840. 
 
-[Examining the cognitive phenotype in Neurofibromatosis 1: a systematic review of functional imaging studies](https://doi.org/10.1101/2025.01.27.25321195)
-Wild A, *et al.*
-medRxiv. doi:10.1101/2025.01.27.25321195 
-
-[Functional connectivity reveals increased network segregation and sensorimotor processing during working memory in adolescents with Neurofibromatosis Type 1](https://www.biorxiv.org/content/10.1101/2025.04.10.648210v2)
+[Functional connectivity reveals increased network segregation and sensorimotor processing during working memory in adolescents with NF1](https://www.biorxiv.org/content/10.1101/2025.04.10.648210v2)
 Litwińczuk MC, *et al.*
 bioRxiv. doi: 10.1101/2025.04.10.648210
 
-[Selective brain network stimulation by frequency entrainment](https://www.biorxiv.org/content/10.1101/2025.04.30.651283v2.full)
-Otero M, *et al.*
-bioRxiv. doi: 10.1101/2025.04.30.651283
-
-[Non-invasive brain stimulation reorganises effective connectivity during a working memory task in individuals with Neurofibromatosis Type 1](https://www.sciencedirect.com/science/article/pii/S2666956025000261)
+[Non-invasive brain stimulation reorganises effective connectivity during a working memory task in individuals with NF1](https://www.sciencedirect.com/science/article/pii/S2666956025000261)
 Litwińczuk MC, *et al.*
 NeuroImage: Reports. doi: 10.1016/j.ynirp.2025.100258
 
