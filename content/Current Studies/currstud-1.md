@@ -5,8 +5,7 @@ description: ""
 summary_image: "/images/CurrStud_Images/Becky_Study.jpeg" 
 title: "Impact of MEKi on learning"
 omit_header_text: "True"
-# summary: "this is my summary"
-summary: ""
+summary: "In this study, we’ll be using different tests to see how MEK inhibitors (MEKi -a medicine taken for some of the physical symptoms of NF1) affect learning, attention and mood in children with NF1."
 ---
 
 {{< figure src="/images/CurrStud_Images/Becky_Study.jpeg" width="350" height="350" >}}
