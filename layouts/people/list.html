@@ -6,10 +6,23 @@
     <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
       {{ .Content }}
     </section>
-    <aside class="flex-ns flex-wrap justify-around mt5">
-      {{ range .Paginator.Pages }}
-        <div class="relative w-100 w-30-l mb4 bg-white">
-          {{ .Render "summary" }}
+    <aside class="mt5">
+      <div class="flex-ns flex-wrap justify-around mb4">
+        {{ range first 2 .Paginator.Pages }}
+          <div class="relative w-100 w-30-l mb4 bg-white">
+            {{ .Render "summary" }}
+          </div>
+        {{ end }}
+      </div>
+      {{ $remaining := after 2 .Paginator.Pages }}
+      {{ if gt (len $remaining) 0 }}
+        <div class="bb b--light-silver mv4"></div>
+        <div class="flex-ns flex-wrap justify-around">
+          {{ range $remaining }}
+            <div class="relative w-100 w-30-l mb4 bg-white">
+              {{ .Render "summary" }}
+            </div>
+          {{ end }}
         </div>
       {{ end }}
     </aside>
