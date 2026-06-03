@@ -5,7 +5,7 @@ description: ""
 summary_image: "/images/News_Images/brain_art.jpg"
 title: "Beyond Diagnosis: NF1 Community Festival"
 omit_header_text: "True"
-summary: "A write up of our recent community festival by Dr Yuping Yang"
+summary: "A write up of our recent community festival by Dr Yuping Yang."
 ---
 
 Beyond Diagnosis: NF1 Community Festival

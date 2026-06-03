@@ -9,6 +9,21 @@ weight: 4
 ---
 
 
+---
+
+### _2026_
+
+[A systematic review of functional brain imaging studies in NF1](https://link.springer.com/article/10.1007/s11065-026-09695-9)
+Wild A, *et al.* 
+Neuropsychol Rev. doi:10.1007/s11065-026-09695-9. 
+
+[Disrupted frontoparietal dynamics in NF1: reduced sensitivity and atypical modulation during working memory](https://doi.org/10.1002/hbm.70464)
+Litwińczuk MC, *et al.* 
+Human Brain Mapping. doi:10.1002/hbm.70464. 
+
+[Mapping myelin alterations in NF1 using magnetization transfer and T1W/T2W ratio imaging](https://doi.org/10.64898/2025.12.09.25341878) Chandran VA, *et al.*
+medRxiv. doi:10.64898/2025.12.09.25341878
+
 
 ---
 
@@ -16,7 +31,7 @@ weight: 4
 
 [Quantitative Grey/White Matter Myelin differences in Neurofibromatosis Type-1 using T1W/T2W ratio](https://doi.org/10.1101/2025.03.28.25324840)
 Chandran VA, *et al.* 
-medRxiv. doi: 10.1101/2025.03.28.25324840. 
+medRxiv. doi:10.1101/2025.03.28.25324840. 
 
 [Examining the cognitive phenotype in Neurofibromatosis 1: a systematic review of functional imaging studies](https://doi.org/10.1101/2025.01.27.25321195)
 Wild A, *et al.*
@@ -25,10 +40,6 @@ medRxiv. doi:10.1101/2025.01.27.25321195
 [Functional connectivity reveals increased network segregation and sensorimotor processing during working memory in adolescents with Neurofibromatosis Type 1](https://www.biorxiv.org/content/10.1101/2025.04.10.648210v2)
 Litwińczuk MC, *et al.*
 bioRxiv. doi: 10.1101/2025.04.10.648210
-
-[Fronto-parietal effective connectivity during working memory in Neurofibromatosis Type 1 adolescents and neurotypical controls](https://www.biorxiv.org/content/10.1101/2025.04.10.648183v2)
-Litwińczuk MC, *et al.*
-bioRxiv. doi: 10.1101/2025.04.10.648183
 
 [Selective brain network stimulation by frequency entrainment](https://www.biorxiv.org/content/10.1101/2025.04.30.651283v2.full)
 Otero M, *et al.*
