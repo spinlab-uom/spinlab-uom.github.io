@@ -8,7 +8,7 @@ omit_header_text: "True"
 summary: "An video of our recent event."
 ---
 
-Watch a vidoe of our recent Neurofibromatosis type 1 Community Festival 
+Watch a video of our recent Neurofibromatosis type 1 Community Festival 
 
 {{< video src="/videos/PPIE_Video.mp4" width="800" height="600" alt="EEG scan demonstration" >}}
 
