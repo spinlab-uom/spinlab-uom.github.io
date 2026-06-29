@@ -5,7 +5,7 @@ description: ""
 summary_image: "/images/CurrStud_Images/PPIE_Still.png"
 title: "NF1 Community Festival"
 omit_header_text: "True"
-summary: "An video of our recent event."
+summary: "A video of our recent event."
 ---
 
 Watch a video of our recent Neurofibromatosis type 1 Community Festival 
